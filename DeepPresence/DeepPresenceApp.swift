@@ -4,14 +4,16 @@
 //
 //  Created by Abhay Shakya on 3/11/25.
 //
-
 import SwiftUI
 
 @main
 struct DeepPresenceApp: App {
+    @StateObject private var studentData = StudentData()
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoginView()
+                .environmentObject(studentData) // Provide StudentData
         }
     }
 }

@@ -1,0 +1,24 @@
+{
+  "originHash" : "ced8e01be0bd4fb68f7fe7c7f2585b462b5958b4fcc365d8ca6afa3111c2b756",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "513364f870f6bfc468f9d2ff0a95caccc10044c5",
+        "version" : "5.10.2"
+      }
+    },
+    {
+      "identity" : "swiftuicharts",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mecid/SwiftUICharts.git",
+      "state" : {
+        "revision" : "1d55ace019a66c50e06412ceda993a856b9bee61",
+        "version" : "0.8.3"
+      }
+    }
+  ],
+  "version" : 3
+}

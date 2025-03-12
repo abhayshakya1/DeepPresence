@@ -6,6 +6,11 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		BD3623172D80D6B5001CF5FA /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = BD01418F2D80BEDF00DCFD8E /* Alamofire */; };
+		BD3623402D810059001CF5FA /* SwiftUICharts in Frameworks */ = {isa = PBXBuildFile; productRef = BD36233F2D810059001CF5FA /* SwiftUICharts */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		BD0141722D80831500DCFD8E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -48,13 +53,6 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		BD01415D2D80831400DCFD8E /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		BD01416E2D80831500DCFD8E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -69,6 +67,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		BD1171D82D80D46E00A30D66 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BD3623172D80D6B5001CF5FA /* Alamofire in Frameworks */,
+				BD3623402D810059001CF5FA /* SwiftUICharts in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -78,6 +85,7 @@
 				BD0141622D80831400DCFD8E /* DeepPresence */,
 				BD0141742D80831500DCFD8E /* DeepPresenceTests */,
 				BD01417E2D80831500DCFD8E /* DeepPresenceUITests */,
+				BD1171D72D80D3F000A30D66 /* Frameworks */,
 				BD0141612D80831400DCFD8E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -92,6 +100,13 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		BD1171D72D80D3F000A30D66 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -100,7 +115,7 @@
 			buildConfigurationList = BD0141852D80831500DCFD8E /* Build configuration list for PBXNativeTarget "DeepPresence" */;
 			buildPhases = (
 				BD01415C2D80831400DCFD8E /* Sources */,
-				BD01415D2D80831400DCFD8E /* Frameworks */,
+				BD1171D82D80D46E00A30D66 /* Frameworks */,
 				BD01415E2D80831400DCFD8E /* Resources */,
 			);
 			buildRules = (
@@ -112,6 +127,9 @@
 			);
 			name = DeepPresence;
 			packageProductDependencies = (
+				BD01418F2D80BEDF00DCFD8E /* Alamofire */,
+				BD0141912D80BEDF00DCFD8E /* AlamofireDynamic */,
+				BD36233F2D810059001CF5FA /* SwiftUICharts */,
 			);
 			productName = DeepPresence;
 			productReference = BD0141602D80831400DCFD8E /* DeepPresence.app */;
@@ -195,6 +213,10 @@
 			);
 			mainGroup = BD0141572D80831400DCFD8E;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				BD01418E2D80BEB100DCFD8E /* XCRemoteSwiftPackageReference "Alamofire" */,
+				BD36233E2D810059001CF5FA /* XCRemoteSwiftPackageReference "SwiftUICharts" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = BD0141612D80831400DCFD8E /* Products */;
 			projectDirPath = "";
@@ -392,6 +414,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"DeepPresence/Preview Content\"";
+				DEVELOPMENT_TEAM = 3BFJNHPZJR;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
@@ -412,10 +435,11 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.abhayshakya.DeepPresence;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Debug;
@@ -429,6 +453,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"DeepPresence/Preview Content\"";
+				DEVELOPMENT_TEAM = 3BFJNHPZJR;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
@@ -449,10 +474,11 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.abhayshakya.DeepPresence;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Release;
@@ -583,6 +609,43 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		BD01418E2D80BEB100DCFD8E /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.10.2;
+			};
+		};
+		BD36233E2D810059001CF5FA /* XCRemoteSwiftPackageReference "SwiftUICharts" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/mecid/SwiftUICharts.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.8.3;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		BD01418F2D80BEDF00DCFD8E /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = BD01418E2D80BEB100DCFD8E /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = Alamofire;
+		};
+		BD0141912D80BEDF00DCFD8E /* AlamofireDynamic */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = BD01418E2D80BEB100DCFD8E /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = AlamofireDynamic;
+		};
+		BD36233F2D810059001CF5FA /* SwiftUICharts */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = BD36233E2D810059001CF5FA /* XCRemoteSwiftPackageReference "SwiftUICharts" */;
+			productName = SwiftUICharts;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = BD0141582D80831400DCFD8E /* Project object */;
 }
