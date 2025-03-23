@@ -13,3 +13,4 @@ struct StudentView: View {
             .navigationTitle("Student Dashboard")
     }
 }
+

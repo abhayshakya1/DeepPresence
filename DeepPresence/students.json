@@ -1,653 +1,467 @@
 [
     {
         "name": "Abhay Shakya",
-        "rollno": MT24018,
-        "email": "abhay24108@iiitd.ac.in",
-        "course": "Deep Learning",
-        "instructor": "Dr. Vinayak Abrol"
+        "rollno": "MT24018",
+        "email": "abhay24108@iiitd.ac.in"
     },
     {
         "name": "Abhirup Das",
-        "rollno": 1,
-        "email": "abhirup.das@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022019",
+        "email": "abhirup22019@iiitd.ac.in"
     },
     {
         "name": "Aditya Bugalya",
-        "rollno": 2,
-        "email": "aditya.bugalya@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2019457",
+        "email": "aditya19457@iiitd.ac.in"
     },
     {
         "name": "Aditi Roy",
-        "rollno": 3,
-        "email": "aditi.roy@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2023010",
+        "email": "aditi23010@iiitd.ac.in"
     },
     {
         "name": "Aman Kumar",
-        "rollno": 4,
-        "email": "aman.kumar@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT241012",
+        "email": "aman24012@iiitd.ac.in"
     },
     {
         "name": "Anant Agarwal",
-        "rollno": 5,
-        "email": "anant.agarwal@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2019113",
+        "email": "anant19113@iiitd.ac.in"
     },
     {
         "name": "Animesh Gupta",
-        "rollno": 6,
-        "email": "animesh.gupta@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022074",
+        "email": "animesh22074@iiitd.ac.in"
     },
     {
         "name": "Anish Jain",
-        "rollno": 7,
-        "email": "anish.jain@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022077",
+        "email": "anish22077@iiitd.ac.in"
     },
     {
         "name": "Ankur Bohra",
-        "rollno": 8,
-        "email": "ankur.bohra@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022079",
+        "email": "ankur22079@iiitd.ac.in"
     },
     {
         "name": "Anupma Pandey",
-        "rollno": 9,
-        "email": "anupma.pandey@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT23019",
+        "email": "anupma23019@iiitd.ac.in"
     },
     {
         "name": "Arjun Bharatbhai Maniya",
-        "rollno": 10,
-        "email": "arjun.maniya@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT24018",
+        "email": "arjun24018@iiitd.ac.in"
     },
     {
         "name": "Arnav Agrawal",
-        "rollno": 11,
-        "email": "arnav.agrawal@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022097",
+        "email": "arnav22097@iiitd.ac.in"
     },
     {
         "name": "Arnav Shukla",
-        "rollno": 12,
-        "email": "arnav.shukla@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022103",
+        "email": "arnav22103@iiitd.ac.in"
     },
     {
         "name": "Arnav Singh",
-        "rollno": 13,
-        "email": "arnav.singh@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021019",
+        "email": "arnav21019@iiitd.ac.in"
     },
     {
         "name": "Asa Singh",
-        "rollno": 14,
-        "email": "asa.singh@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022113",
+        "email": "asa22113@iiitd.ac.in"
     },
     {
         "name": "Ashwani IIITD",
-        "rollno": 15,
-        "email": "ashwani.iiitd@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021521",
+        "email": "ashwani21521@iiitd.ac.in"
     },
     {
         "name": "Ayush Saun",
-        "rollno": 16,
-        "email": "ayush.saun@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT24024",
+        "email": "ayush.saun@iiitd.ac.in"
     },
     {
         "name": "Ayush Srivastava",
-        "rollno": 17,
-        "email": "ayush.srivastava@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2016024",
+        "email": "ayush16024@iiitd.ac.in"
     },
     {
         "name": "Chaitanya Lakhchaura",
-        "rollno": 18,
-        "email": "chaitanya.lakhchaura@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT24027",
+        "email": "chaitanya24027@iiitd.ac.in"
     },
     {
         "name": "Daksh Pandey",
-        "rollno": 19,
-        "email": "daksh.pandey@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021036",
+        "email": "daksh21036@iiitd.ac.in"
     },
     {
         "name": "Debamalya Adhya",
-        "rollno": 20,
-        "email": "debamalya.adhya@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT24029",
+        "email": "debamalya24029@iiitd.ac.in"
     },
     {
         "name": "Devesh Kumar Shaw",
-        "rollno": 21,
-        "email": "devesh.shaw@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021526",
+        "email": "devesh21526@iiitd.ac.in"
     },
     {
         "name": "Dhruv Sharma",
-        "rollno": 22,
-        "email": "dhruv.sharma@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022170",
+        "email": "dhruv22170@iiitd.ac.in"
     },
     {
         "name": "Divya Raj Singh",
-        "rollno": 23,
-        "email": "divya.raj@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021528",
+        "email": "divya21528@iiitd.ac.in"
     },
     {
         "name": "Divya Sree Ketha",
-        "rollno": 24,
-        "email": "divya.ketha@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT24033",
+        "email": "divya24033@iiitd.ac.in"
     },
     {
         "name": "Het Riteshkumar Shah",
-        "rollno": 25,
-        "email": "het.shah@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022213",
+        "email": "het22213@iiitd.ac.in"
     },
     {
         "name": "Ishwar Babu",
-        "rollno": 26,
-        "email": "ishwar.babu@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021532",
+        "email": "ishwar21532@iiitd.ac.in"
     },
     {
         "name": "Jaleel Ahmed Radhu Khwaja",
-        "rollno": 27,
-        "email": "jaleel.ahmed@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022225",
+        "email": "jaleel22225@iiitd.ac.in"
     },
     {
         "name": "Jatin Aggarwal",
-        "rollno": 28,
-        "email": "jatin.aggarwal@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022228",
+        "email": "jatin.aggarwal@iiitd.ac.in"
     },
     {
         "name": "Jaya Sree Ketha",
-        "rollno": 29,
-        "email": "jaya.ketha@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT24042",
+        "email": "jaya24042@iiitd.ac.in"
     },
     {
         "name": "Jeremiah Rokhum",
-        "rollno": 30,
-        "email": "jeremiah.rokhum@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021533",
+        "email": "jeremiah21533@iiitd.ac.in"
     },
     {
         "name": "Kartikeya IIITD",
-        "rollno": 31,
-        "email": "kartikeya.iiitd@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022241",
+        "email": "kartikeya22241@iiitd.ac.in"
     },
     {
         "name": "Khushal Yadav",
-        "rollno": 32,
-        "email": "khushal.yadav@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022249",
+        "email": "khushal22249@iiitd.ac.in"
     },
     {
         "name": "Maganti Deepak",
-        "rollno": 33,
-        "email": "maganti.deepak@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021162",
+        "email": "maganti21162@iiitd.ac.in"
     },
     {
         "name": "Manan Aggarwal",
-        "rollno": 34,
-        "email": "manan.aggarwal@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022273",
+        "email": "manan22273@iiitd.ac.in"
     },
     {
         "name": "Manogna Pasumarthi",
-        "rollno": 35,
-        "email": "manogna.pasumarthi@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT24127",
+        "email": "manogna24127@iiitd.ac.in"
     },
     {
         "name": "Manshaa Kapoor",
-        "rollno": 36,
-        "email": "manshaa.kapoor@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021540",
+        "email": "manshaa21540@iiitd.ac.in"
     },
     {
         "name": "Mayank Kumar",
-        "rollno": 37,
-        "email": "mayank.kumar@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022285",
+        "email": "mayank22285@iiitd.ac.in"
     },
     {
         "name": "Megha",
-        "rollno": 38,
-        "email": "megha@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT23125",
+        "email": "megha23125@iiitd.ac.in"
     },
     {
         "name": "Mehul Agarwal",
-        "rollno": 39,
-        "email": "mehul.agarwal@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022294",
+        "email": "mehul22294@iiitd.ac.in"
     },
     {
         "name": "Naman Birla",
-        "rollno": 40,
-        "email": "naman.birla@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022310",
+        "email": "naman22310@iiitd.ac.in"
     },
     {
         "name": "Niharika Singh",
-        "rollno": 41,
-        "email": "niharika.singh@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021545",
+        "email": "niharika21545@iiitd.ac.in"
     },
     {
         "name": "Noel Abraham Tiju",
-        "rollno": 42,
-        "email": "noel.tiju@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022338",
+        "email": "noel22338@iiitd.ac.in"
     },
     {
         "name": "Ojaswini Sharma",
-        "rollno": 43,
-        "email": "ojaswini.sharma@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT24063",
+        "email": "ojaswini24063@iiitd.ac.in"
     },
     {
         "name": "Prakhar Gupta",
-        "rollno": 44,
-        "email": "prakhar.gupta@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021550",
+        "email": "prakhar21550@iiitd.ac.in"
     },
     {
         "name": "Prajwal IIITD",
-        "rollno": 45,
-        "email": "prajwal.iiitd@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT24064",
+        "email": "prajwal24064@iiitd.ac.in"
     },
     {
         "name": "Pranjal Sharma",
-        "rollno": 46,
-        "email": "pranjal.sharma@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT24219",
+        "email": "pranjal24219@iiitd.ac.in"
     },
     {
         "name": "Prateek Sagar",
-        "rollno": 47,
-        "email": "prateek.sagar@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT24066",
+        "email": "prateek24066@iiitd.ac.in"
     },
     {
         "name": "Rahul Bharti",
-        "rollno": 48,
-        "email": "rahul.bharti@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022387",
+        "email": "rahul22387@iiitd.ac.in"
     },
     {
         "name": "Rahul Oberoi",
-        "rollno": 49,
-        "email": "rahul.oberoi@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021555",
+        "email": "rahul21555@iiitd.ac.in"
     },
     {
         "name": "Rahul Ramesh Omalur",
-        "rollno": 50,
-        "email": "rahul.omalur@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022392",
+        "email": "rahul22392@iiitd.ac.in"
     },
     {
         "name": "Ramish Jamal",
-        "rollno": 51,
-        "email": "ramish.jamal@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022395",
+        "email": "ramish22395@iiitd.ac.in"
     },
     {
         "name": "Rayyan Hussain",
-        "rollno": 52,
-        "email": "rayyan.hussain@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022399",
+        "email": "rayyan22399@iiitd.ac.in"
     },
     {
         "name": "Ritika Thakur",
-        "rollno": 53,
-        "email": "ritika.thakur@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022408",
+        "email": "ritika22408@iiitd.ac.in"
     },
     {
         "name": "Rohan Sudhir Basugade",
-        "rollno": 54,
-        "email": "rohan.basugade@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022416",
+        "email": "rohan22416@iiitd.ac.in"
     },
     {
         "name": "Sahil Balaji Karli",
-        "rollno": 55,
-        "email": "sahil.karli@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT24133",
+        "email": "sahil24133@iiitd.ac.in"
     },
     {
         "name": "Saksham Kapoor",
-        "rollno": 56,
-        "email": "saksham.kapoor@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022431",
+        "email": "saksham22431@iiitd.ac.in"
     },
     {
         "name": "Saksham Singh",
-        "rollno": 57,
-        "email": "saksham.singh@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022434",
+        "email": "saksham22434@iiitd.ac.in"
     },
     {
         "name": "Sarthak Kalpasi",
-        "rollno": 58,
-        "email": "sarthak.kalpasi@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021197",
+        "email": "sarthak21197@iiitd.ac.in"
     },
     {
         "name": "Satwik Garg",
-        "rollno": 59,
-        "email": "satwik.garg@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022461",
+        "email": "satwik22461@iiitd.ac.in"
     },
     {
         "name": "Satyam Pandey",
-        "rollno": 60,
-        "email": "satyam.pandey@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022463",
+        "email": "satyam22463@iiitd.ac.in"
     },
     {
         "name": "Shaurya Chandra",
-        "rollno": 61,
-        "email": "shaurya.chandra@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021200",
+        "email": "shaurya21200@iiitd.ac.in"
     },
     {
         "name": "Shah Meetkumar Yagneshkumar",
-        "rollno": 62,
-        "email": "shah.yagneshkumar@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT24136",
+        "email": "meetkumar24136@iiitd.ac.in"
     },
     {
         "name": "Shashwat Shekhar",
-        "rollno": 63,
-        "email": "shashwat.shekhar@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022473",
+        "email": "shashwat22473@iiitd.ac.in"
     },
     {
         "name": "Shobhit Raj",
-        "rollno": 64,
-        "email": "shobhit.raj@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022482",
+        "email": "shobhit22482@iiitd.ac.in"
     },
     {
         "name": "Shrey IIITD",
-        "rollno": 65,
-        "email": "shrey.iiitd@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021562",
+        "email": "shrey21562@iiitd.ac.in"
     },
     {
         "name": "Shreyas Kabra",
-        "rollno": 66,
-        "email": "shreyas.kabra@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021563",
+        "email": "shreyas21563@iiitd.ac.in"
     },
     {
         "name": "Shubham Goel",
-        "rollno": 67,
-        "email": "shubham.goel@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022490",
+        "email": "shubham22490@iiitd.ac.in"
     },
     {
         "name": "Somay Jalan",
-        "rollno": 68,
-        "email": "somay.jalan@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022505",
+        "email": "somay22505@iiitd.ac.in"
     },
     {
         "name": "Souparno Ghose",
-        "rollno": 69,
-        "email": "souparno.ghose@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022506",
+        "email": "souparno22506@iiitd.ac.in"
     },
     {
         "name": "Sumesh Prasad",
-        "rollno": 70,
-        "email": "sumesh.prasad@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT24001",
+        "email": "sumesh24001@iiitd.ac.in"
     },
     {
         "name": "Sujal Suri",
-        "rollno": 71,
-        "email": "sujal.suri@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022514",
+        "email": "sujal22514@iiitd.ac.in"
     },
     {
         "name": "Suyash Pathak",
-        "rollno": 72,
-        "email": "suyash.pathak@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT24142",
+        "email": "suyash24142@iiitd.ac.in"
     },
     {
         "name": "Swapnil Navnath Andhale",
-        "rollno": 73,
-        "email": "swapnil.andhale@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT24099",
+        "email": "swapnil24099@iiitd.ac.in"
     },
     {
         "name": "Swapnil Panigrahi",
-        "rollno": 74,
-        "email": "swapnil.panigrahi@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022522",
+        "email": "swapnil22522@iiitd.ac.in"
     },
     {
         "name": "Syamantak Paliwal",
-        "rollno": 75,
-        "email": "syamantak.paliwal@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022529",
+        "email": "syamantak22529@iiitd.ac.in"
     },
     {
         "name": "Tanmay Sanjay Hire",
-        "rollno": 76,
-        "email": "tanmay.hire@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT24100",
+        "email": "tanmay24100@iiitd.ac.in"
     },
     {
         "name": "Tharun Harish Ganesh Kumar",
-        "rollno": 77,
-        "email": "tharun.kumar@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022541",
+        "email": "tharun22541@iiitd.ac.in"
     },
     {
         "name": "Tushar Chandra",
-        "rollno": 78,
-        "email": "tushar.chandra@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021211",
+        "email": "tushar21211@iiitd.ac.in"
     },
     {
         "name": "Tushar IIITD",
-        "rollno": 79,
-        "email": "tushar.iiitd@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022544",
+        "email": "tushar22544@iiitd.ac.in"
     },
     {
         "name": "Varun Bharti",
-        "rollno": 80,
-        "email": "varun.bharti@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022562",
+        "email": "varun22562@iiitd.ac.in"
     },
     {
         "name": "Vardhana Sharma",
-        "rollno": 81,
-        "email": "vardhana.sharma@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "PHD",
+        "email": "vardhanas@iiitd.ac.in"
     },
     {
         "name": "Vartika IIITD",
-        "rollno": 82,
-        "email": "vartika.iiitd@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021571",
+        "email": "vartika21571@iiitd.ac.in"
     },
     {
         "name": "Vashu IIITD",
-        "rollno": 83,
-        "email": "vashu.iiitd@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022606",
+        "email": "vashu22606@iiitd.ac.in"
     },
     {
         "name": "Vasu Kapoor",
-        "rollno": 84,
-        "email": "vasu.kapoor@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021573",
+        "email": "vasu21573@iiitd.ac.in"
     },
     {
         "name": "Vibhor Aggarwal",
-        "rollno": 85,
-        "email": "vibhor.aggarwal@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021111",
+        "email": "vibhor21111@iiitd.ac.in"
     },
     {
         "name": "Vijval Ekbote",
-        "rollno": 86,
-        "email": "vijval.ekbote@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022569",
+        "email": "vijval2022569@iiitd.ac.in"
     },
     {
         "name": "Vinay Kumar Verma",
-        "rollno": 87,
-        "email": "vinay.verma@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT24002",
+        "email": "vinay24002@iiitd.ac.in"
     },
     {
         "name": "Vishesh IIITD",
-        "rollno": 88,
-        "email": "vishesh.iiitd@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021114",
+        "email": "vishesh21114@iiitd.ac.in"
     },
     {
         "name": "Vivek Jain",
-        "rollno": 89,
-        "email": "vivek.jain@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2021218",
+        "email": "vivek21218@iiitd.ac.in"
     },
     {
         "name": "Yash Bhardwaj",
-        "rollno": 90,
-        "email": "yash.bhardwaj@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "2022586",
+        "email": "yash22586@iiitd.ac.in"
     },
     {
         "name": "Yash Choudhery",
-        "rollno": 91,
-        "email": "yash.choudhery@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "MT24147",
+        "email": "yash24147@iiitd.ac.in"
     },
     {
         "name": "Zeba Afroz",
-        "rollno": 92,
-        "email": "zeba.afroz@example.com",
-        "course": "Deep Learning",
-        "instructor": "Dr. John Doe"
+        "rollno": "PHD23012",
+        "email": "zebaa@iiitd.ac.in"
     }
 ]

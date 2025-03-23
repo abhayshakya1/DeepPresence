@@ -7,15 +7,16 @@
 import SwiftUI
 
 struct InstructorView: View {
-    @EnvironmentObject private var studentData: StudentData // Access StudentData
+    @State private var courses: [Course] = []
     @State private var isAddingCourse: Bool = false
     @State private var newCourseName: String = ""
     @State private var newCourseCode: String = ""
+    @State private var newSemester: String = ""
 
     var body: some View {
         NavigationView {
             VStack {
-                if studentData.courses.isEmpty {
+                if courses.isEmpty {
                     Text("No ongoing courses.")
                         .font(.title2)
                         .padding()
@@ -29,12 +30,15 @@ struct InstructorView: View {
                     .cornerRadius(10)
                 } else {
                     List {
-                        ForEach(studentData.courses) { course in
-                            NavigationLink(destination: CourseDetailView(course: course).environmentObject(studentData)) {
+                        ForEach(courses) { course in
+                            NavigationLink(destination: CourseDetailView(course: course)) {
                                 VStack(alignment: .leading) {
-                                    Text(course.name)
+                                    Text(course.courseName)
                                         .font(.headline)
-                                    Text(course.code)
+                                    Text(course.courseId)
+                                        .font(.subheadline)
+                                        .foregroundColor(.gray)
+                                    Text(course.semester)
                                         .font(.subheadline)
                                         .foregroundColor(.gray)
                                 }
@@ -45,7 +49,7 @@ struct InstructorView: View {
                     .navigationTitle("Ongoing Courses")
                 }
 
-                if !studentData.courses.isEmpty {
+                if !courses.isEmpty {
                     Button("Add Another Course") {
                         isAddingCourse.toggle()
                     }
@@ -70,6 +74,10 @@ struct InstructorView: View {
                         .textFieldStyle(RoundedBorderTextFieldStyle())
                         .padding()
 
+                    TextField("Semester", text: $newSemester)
+                        .textFieldStyle(RoundedBorderTextFieldStyle())
+                        .padding()
+
                     Button("Save Course") {
                         saveCourse()
                     }
@@ -84,14 +92,24 @@ struct InstructorView: View {
     }
 
     private func saveCourse() {
-        let newCourse = Course(id: UUID(), name: newCourseName, code: newCourseCode)
-        studentData.courses.append(newCourse) // Modify the @Published property
+        let newCourse = Course(
+            id: UUID(),
+            courseName: newCourseName,
+            courseId: newCourseCode,
+            semester: newSemester,
+            instructorEmail: "", // Add instructor email if needed
+            instructorName: "", // Add instructor name if needed
+            students: [],
+            enrolledStudentsCount: 0
+        )
+        courses.append(newCourse)
         isAddingCourse = false
         newCourseName = ""
         newCourseCode = ""
+        newSemester = ""
     }
 
     private func deleteCourse(at offsets: IndexSet) {
-        studentData.courses.remove(atOffsets: offsets) // Modify the @Published property
+        courses.remove(atOffsets: offsets)
     }
 }
