@@ -1,5 +1,7 @@
 # DeepPresence - Attendance Tracking System
 
+Video Tutorial - https://drive.google.com/file/d/1q3Zzb47D34VzJ2iAQq1Khx51GM9u7LKm/view?usp=drive_link
+
 This project is a smart attendance tracking system using face recognition and clustering, built with:
 
 - **Backend**: Python, FastAPI, MySQL
