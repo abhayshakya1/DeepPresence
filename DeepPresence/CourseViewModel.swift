@@ -14,7 +14,7 @@ class CourseViewModel: ObservableObject {
     @Published var errorMessage: String? = nil
 
     func fetchCourses() {   
-        let url = "http://127.0.0.1:5000/courses" // Replace with your Flask server URL
+        let url = "http://127.0.0.1:5000/courses" 
 
         isLoading = true
         AF.request(url).responseDecodable(of: [Course].self) { response in
