@@ -9,9 +9,9 @@ This project is a smart attendance tracking system using face recognition and cl
 
 ---
 
-## 🚀 Backend (FastAPI) Setup
+##  Backend (FastAPI) Setup
 
-### ✅ Prerequisites
+###  Prerequisites
 
 - Python 3.8+
 - MySQL Server running with your schema
